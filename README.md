@@ -1,2 +1,2 @@
 # LLLMApps
-Use Local LLM to create Appiications
+Use Local LLM to create Applications
